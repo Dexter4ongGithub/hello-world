@@ -1,3 +1,3 @@
 # hello-world
-Sample repository
+Samp new repository
 Making changes
